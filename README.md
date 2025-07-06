@@ -41,8 +41,6 @@ Examples:
 4. Seller contribution to revenue
 5. Product-level return rates
 
-Full list of all 16 questions is in [`Questions.txt`](https://github.com/Ayushi0214/SQL-Python-Ecommerce-Project/blob/main/Questions.txt).
-
 ---
 
 ## 🔧 How to Run
