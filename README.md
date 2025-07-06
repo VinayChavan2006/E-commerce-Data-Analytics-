@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Data Analytics Project (SQL + Python)
 
-This project is a full-scale data analytics portfolio that showcases end-to-end skills in **SQL**, **Python (Pandas)**, and **data storytelling**. It analyzes an E-commerce sales dataset to answer 16 real-world business questions.
+This project is a full-scale data analytics portfolio that showcases end-to-end skills in **SQL**, **Python (Pandas)**, and **data storytelling**. It analyzes an E-commerce sales dataset.
 
 ---
 
